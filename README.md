@@ -1,7 +1,8 @@
 # Reynime
 Anime Stream App, Making With Sketchware
 
-Future:
+Fiture:
+
 - Login System
 - Edit Profile
 - New Eps and All Series
@@ -9,3 +10,4 @@ Future:
 - Show All Eps In Info
 - Tab Stream With WebView
 - Theme Light/Dark Following System
+- Already Using Firebase Database
